@@ -12,7 +12,7 @@
 
 ### 2.DI容器的数据结构
 
-![DataOfDI](.\img\DataOfDI.png)
+![DataOfDI](./img/DataOfDI.png)
 
 
 
