@@ -154,5 +154,5 @@ public function __get($name)
 
 ### 7.components注册流程
 
-​	![components register](img/components register.png)
+​	![components register](/img/components_register.png)
 
